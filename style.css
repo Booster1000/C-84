@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    color: aquamarine;
+    font-size: 40px;
+    background-image: url("https://media1.giphy.com/media/l3vQZT84QqVUKUWE8/giphy.gif");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Comic Sans Ms";
+}
+
+#p1{
+    color: red;
+    font-size: 40px;
+    }
+    #p2{
+        color: white;
+        font-size: 40px;
+        }
+
+#result{
+color: rgb(0, 255, 76);
+        font-size: 40px;
+}
+    
+canvas{
+            background-color: rgb(0, 0, 255);
+            border: 15px  rgb(255, 0, 255) solid;
+            border-radius: 20px;
+        }
